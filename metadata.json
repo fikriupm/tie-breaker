@@ -2,5 +2,7 @@
   "name": "The Tiebreaker",
   "description": "AI-assisted decision making tool offering structured pros & cons lists, multi-criteria comparison tables, and SWOT analyses to break dilemmas.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
